@@ -1,0 +1,46 @@
+
+KHANSA
++923185746788 | khansak960@gmail.com | LinkedIn: Khansa Khansa
+
+SUMMARY
+
+Recent B.Sc. in Computer Science graduate with a strong foundation in programming and software development. Seeking a dynamic position to utilize skills in innovative projects.
+
+EDUCATION
+
+B.Sc. in Computer Science
+University of Haripur, Pakistan (SEP 2021 - JULY 2025)
+
+Acadamic Strengths:  Artificial Intelligence, Web Development, Database Systems
+
+PROJECTS
+
+AI Based Timetable Generation
+Tools: Visual Studio, Flask, Genetic Algorithm, SQLite, Python
+Developed an AI system for optimal academic timetable generation.
+
+3D Model Learning App
+Tools: Unity, Python, C#, XAMPP (MySQL)
+Created an interactive app with AI-based emotion detection for student engagement.
+
+Password Security System
+Tools: Digital Logic Design, Logic Gates
+Built a hardware-based password security system using digital logic components.
+
+Company Database Management System
+Tools: SQL, HTML, CSS, Java
+Developed a database system for managing IT company information.
+
+SKILLS
+
+Softwares / IDEs: MS Office, Visual Studio, Jupyter Notebook
+Languages / Frameworks: Python, C++, HTML, CSS, JavaScript, MySQL
+HOBBIES & INTERESTS
+Web Development
+Artificial Intelligence
+Database Management
+Exploring APIs and Automation tools
+LANGUAGES
+English
+Urdu
+
